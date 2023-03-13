@@ -25,8 +25,8 @@ country:
   name: SCAG
   adjective: SCAG
 create_goals:
-  previous_next_links: false
-  goal_content_heading: ''
+  goal_content_heading: 'About Testing'
+  previous_next_links: true
 #  goals: []
   goals:
     - content: My content for goal 1
