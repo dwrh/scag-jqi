@@ -27,8 +27,10 @@ country:
 create_goals:
   previous_next_links: false
   goal_content_heading: ''
-  goals: []
-create_indicators:
+#  goals: []
+goals:
+    - content: My content for goal 1
+    - content: My content for goal 2
   previous_next_links: false
 create_pages:
   - filename: ''
