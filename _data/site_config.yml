@@ -22,8 +22,8 @@ breadcrumbs:
 cookie_consent_form:
   enabled: false
 country:
-  name: SCAG
-  adjective: SCAG
+  name: Testing JQI
+  adjective: JQI
 create_goals:
   goal_content_heading: About
   previous_next_links: true
