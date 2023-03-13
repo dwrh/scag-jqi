@@ -28,7 +28,7 @@ create_goals:
   goal_content_heading: 'About Testing'
   previous_next_links: false
   goals: []
-#  previous_next_links: false
+  previous_next_links: false
 create_pages:
   - filename: ''
     folder: /goals
