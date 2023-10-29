@@ -22,8 +22,14 @@ breadcrumbs:
 cookie_consent_form:
   enabled: false
 country:
-  name: Australia
-  adjective: Australian
+  name: Testing JQI
+  adjective: JQI
+#create_goals:
+#  goal_content_heading: About
+#  previous_next_links: true
+#  goals:
+#    - goal: 1
+#      content: My content for goal 1
 create_goals:
   previous_next_links: false
   goals: []
